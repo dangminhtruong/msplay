@@ -1,0 +1,5 @@
+{{ .AnsiColor.Yellow }} /_  __/_______  ______  ____  ____ __{{.AnsiColor.BrightGreen}}___/ /____ _____  ____ _
+{{ .AnsiColor.Yellow }}  / /  / ___/ / / / __ \/ __ \/ __ `{{.AnsiColor.BrightGreen}}/ __  // __ `/ __ \/ __ `/
+{{ .AnsiColor.Yellow }} / /  / /  / /_/ / /_/ / / / / /_/ {{.AnsiColor.BrightGreen}}/ /_/ // /_/ / / / / /_/ / 
+{{ .AnsiColor.Yellow }}/_/  /_/   \__,_/\____/_/ /_/\__, /{{.AnsiColor.BrightGreen}}\__,_/ \__,_/_/ /_/\__, /  
+                            /____/                   {{.AnsiColor.BrightGreen}}/____/   
